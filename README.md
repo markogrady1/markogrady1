@@ -9,3 +9,8 @@
     <a href="#">sponsor</a>
   </samp>
 </p>
+<br />
+<div>
+    <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=markogrady1&count_private=true" />
+    <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markogrady1&layout=compact" />
+</div>
