@@ -11,6 +11,6 @@
 </p>
 <br />
 <div>
-    <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=markogrady1&count_private=true" />
-    <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markogrady1&layout=compact" />
+    <img align="center" valign="top" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=markogrady1&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" />
+    <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markogrady1&layout=compact&theme=material-palenight" />
 </div>
