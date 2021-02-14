@@ -40,8 +40,8 @@
 <img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Mojolicious" width="45px" src="https://avatars.githubusercontent.com/u/2388868?s=200&v=4" />
 
 
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Moose" width="45px" src="https://avatars.githubusercontent.com/u/71921?s=200&v=4" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #000; border-radius:5px;"  align="left" alt="Moose" width="45px" src="https://avatars.githubusercontent.com/u/71921?s=200&v=4" />
 
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="Redis" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/>
+<img style="margin: 1px; padding-right:1rem; border:1px solid #000; border-radius:5px;" align="left" alt="Redis" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/>
 
-<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Linux" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+<img style="margin: 1px; padding-right:1rem; border:1px solid #000; border-radius:5px;"  align="left" alt="Linux" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
