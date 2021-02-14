@@ -17,38 +17,31 @@
 </div>
 
 <br/>
-<style>
-  .lang-tools {
-    margin: 1px;
-    padding-right:1rem;
-    border:1px solid #fff;
-    border-radius:5px;
-  }
-</style>
+
 
 ### 🔧🔨 Languages and Tools 🔧🔨
 
 
-<img class='lang-tools' align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img class='lang-tools' align="left" alt="NodeJS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="NodeJS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img class='lang-tools' align="left" alt="ReactJS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="ReactJS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img class='lang-tools' align="left" alt="Perl" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Perl" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"
 />
 
-<img class='lang-tools' align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<img class='lang-tools' align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img class='lang-tools' align="left" alt="ExpressJS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="ExpressJS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
-<img class='lang-tools' align="left" alt="Mojolicious" width="45px" src="https://avatars.githubusercontent.com/u/2388868?s=200&v=4" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Mojolicious" width="45px" src="https://avatars.githubusercontent.com/u/2388868?s=200&v=4" />
 
 
-<img class='lang-tools' align="left" alt="Moose" width="45px" src="https://avatars.githubusercontent.com/u/71921?s=200&v=4" />
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Moose" width="45px" src="https://avatars.githubusercontent.com/u/71921?s=200&v=4" />
 
-<img class='lang-tools' align="left" alt="Redis" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/>
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;" align="left" alt="Redis" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/>
 
-<img class='lang-tools' align="left" alt="Linux" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+<img style="margin: 1px; padding-right:1rem; border:1px solid #fff; border-radius:5px;"  align="left" alt="Linux" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
